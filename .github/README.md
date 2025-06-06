@@ -1,12 +1,6 @@
 📚 PLP Bookstore - MongoDB Assignment
 bash
-┌───────────────────────────────────────┐
-│  ___  ___ _ __   ___  _ __ ___   ___  │
-│ / __|/ _ \ '_ \ / _ \| '_ ` _ \ / _ \ │
-│ \__ \  __/ |_) | (_) | | | | | |  __/ │
-│ |___/\___| .__/ \___/|_| |_| |_|\___| │
-│          |_|                          │
-└───────────────────────────────────────┘
+
 
 Welcome to the **PLP Bookstore MongoDB assignment**! This project helps you learn core MongoDB concepts including setup, CRUD operations, and advanced data analysis using aggregation pipelines.
 
